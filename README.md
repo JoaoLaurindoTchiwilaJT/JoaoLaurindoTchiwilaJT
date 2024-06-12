@@ -5,7 +5,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLaurindoTchiwilaJT&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLaurindoTchiwilaJT&layout=compact)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br>
