@@ -35,6 +35,7 @@ Sou um desenvolvedor **Full Stack** com paixão por **inovação, tecnologia e d
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
