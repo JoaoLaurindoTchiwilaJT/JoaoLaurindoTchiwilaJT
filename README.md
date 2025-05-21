@@ -20,7 +20,12 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor **Full Stack** com paixão por **inovação, tecnologia e desafios criativos**. Gosto de transformar ideias em soluções funcionais e intuitivas. Atualmente focado em desenvolvimento web, aplicações Java, bancos de dados e boas práticas de programação.
+Sou um desenvolvedor **Full Stack** apaixonado por **inovação, tecnologia e soluções criativas**. Transformo ideias em aplicações robustas e intuitivas. Busco crescer profissionalmente enquanto contribuo com projetos que gerem impacto.
+
+📍 Atuo principalmente com:
+- Desenvolvimento web moderno (JavaScript, React, Node.js)
+- Aplicações em Java (JavaFX, APIs REST)
+- Bancos de dados relacionais (MySQL)
 
 ---
 
@@ -34,13 +39,23 @@ Sou um desenvolvedor **Full Stack** com paixão por **inovação, tecnologia e d
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📂 Projetos em Destaque
+
+> Em breve pretendo destacar aqui repositórios com funcionalidades reais e bem documentadas.
+
+- 🩺 Sistema de gestão clínica em JavaFX
+- 🌐 API de rede social com Node.js
+- 🛒 Marketplace com autenticação JWT
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLaurindoTchiwilaJT&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -49,7 +64,7 @@ Sou um desenvolvedor **Full Stack** com paixão por **inovação, tecnologia e d
 
 ---
 
-## 👁️ Visualizações no Perfil
+## 👁️ Visualizações do Perfil
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/JoaoLaurindoTchiwilaJT/count.svg" />
@@ -65,6 +80,9 @@ Sou um desenvolvedor **Full Stack** com paixão por **inovação, tecnologia e d
 
 ---
 
-### 📬 Sinta-se à vontade para me chamar!
+## 📬 Vamos conversar?
 
-Estou sempre aberto a novas conexões, ideias de projetos, ou apenas trocar uma ideia sobre tecnologia. 🚀
+Estou sempre aberto a novos projetos, ideias inovadoras ou parcerias.  
+Sinta-se à vontade para me chamar nos links acima!
+
+---
