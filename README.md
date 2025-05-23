@@ -23,8 +23,8 @@
 Sou um desenvolvedor **Full Stack** apaixonado por **inovação, tecnologia e soluções criativas**. Transformo ideias em aplicações robustas e intuitivas. Busco crescer profissionalmente enquanto contribuo com projetos que gerem impacto.
 
 📍 Atuo principalmente com:
-- Desenvolvimento web moderno (JavaScript, React, Node.js)
-- Aplicações em Java (JavaFX, APIs REST)
+- Desenvolvimento web moderno (JavaScript, Laravel, React, Node.js)
+- Aplicações em Java (JavaFX, APIs REST), 
 - Bancos de dados relacionais (MySQL)
 
 ---
