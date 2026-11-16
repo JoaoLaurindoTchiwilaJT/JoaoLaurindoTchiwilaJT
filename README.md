@@ -52,34 +52,7 @@ Sou **desenvolvedor Full Stack** e ajudo pessoas e empresas a tirar ideias do pa
 
 ---
 
-## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🩺 Gestão Clínica</h3>
-      <p>Sistema desktop completo para gerir pacientes, consultas e registos clínicos.</p>
-      <p><b>Stack:</b> Java • JavaFX • MySQL</p>
-      <a href="https://github.com/JoaoLaurindoTchiwilaJT/NOME-DO-REPO">🔗 Ver projeto</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 API de Rede Social</h3>
-      <p>API REST com perfis, publicações e interações, pensada para escalar.</p>
-      <p><b>Stack:</b> Node.js • MySQL • JWT</p>
-      <a href="https://github.com/JoaoLaurindoTchiwilaJT/NOME-DO-REPO">🔗 Ver projeto</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🛒 Marketplace</h3>
-      <p>Plataforma de compra e venda com autenticação segura e gestão de produtos.</p>
-      <p><b>Stack:</b> Laravel • React • JWT</p>
-      <a href="https://github.com/JoaoLaurindoTchiwilaJT/NOME-DO-REPO">🔗 Ver projeto</a>
-    </td>
-  </tr>
-</table>
-
-> 📌 Explora os meus [repositórios](https://github.com/JoaoLaurindoTchiwilaJT?tab=repositories) para ver mais.
-
----
 
 ## 🤝 Porque trabalhar comigo?
 
