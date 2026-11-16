@@ -69,8 +69,8 @@ Sou **desenvolvedor Full Stack** e ajudo pessoas e empresas a tirar ideias do pa
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoLaurindoTchiwilaJT&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLaurindoTchiwilaJT&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoLaurindoTchiwilaJT&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoLaurindoTchiwilaJT&theme=radical" />
 </div>
 
 <div align="center">
