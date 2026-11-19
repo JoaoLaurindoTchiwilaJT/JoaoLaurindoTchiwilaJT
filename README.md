@@ -60,7 +60,7 @@ Sou **desenvolvedor Full Stack** e ajudo pessoas e empresas a tirar ideias do pa
 |:--|:--|
 | 🎯 **Foco no resultado** | Penso no problema do utilizador antes de escrever a primeira linha de código. |
 | 🧼 **Código limpo** | Fácil de ler, manter e evoluir, pensando em quem vem depois. |
-| 🔄 **Full Stack de verdade** | Da base de dados à interface, sem precisares de vários profissionais. |
+| 🔄 **Full Stack ** | Da base de dados à interface. |
 | 📚 **Aprendizagem contínua** | Adapto-me rápido a novas tecnologias e desafios. |
 | 💬 **Comunicação clara** | Sem enrolação: alinhamento constante e prazos honestos. |
 
